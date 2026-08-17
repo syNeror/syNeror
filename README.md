@@ -22,13 +22,13 @@
 
 ---
 
-## Hakkımda
+## About
 
-Yazılımı ders olarak değil, ihtiyaçtan öğrendim. Yönettiğim toplulukta bir sorun çıktığında hazır bir çözüm aramak yerine kendim yazmayı denedim — ilk botum berbattı, ikincisi biraz daha iyiydi, üçüncüsünde neden böyle yaptığımı açıklayabiliyordum. Hâlâ o yoldayım.
+I didn't learn programming as a school subject — I learned it out of necessity. When something broke in the community I was running, instead of hunting for a ready-made solution I tried writing my own. My first bot was terrible, the second was a little better, and by the third I could actually explain why I'd built it that way. I'm still walking that road.
 
-İlgimi çeken şey, kullanıcının hiç fark etmediği kısımlar: bir botun neden çöktüğü, bir sistemin nasıl kandırıldığı, bir sayfanın neden yavaş açıldığı. Çoğu zaman asıl öğrendiğim yer de orası oluyor.
+What pulls me in is the part the user never sees: why a bot crashed, how a system got tricked, why a page took too long to load. More often than not, that's where the real learning happens.
 
-Bir konuyu gerçekten anladığımı, o konuda bir şey inşa edip başkası da kullanabildiğinde anlıyorum.
+I know I've genuinely understood something when I've built a thing with it that someone else can use too.
 
 ---
 
