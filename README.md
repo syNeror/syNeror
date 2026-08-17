@@ -10,11 +10,11 @@
            `/++++++++++++++:             Backend   : Node.js • ASP.NET Core
           `/+++ooooooooooooo/`           Database  : PostgreSQL • SQLite
          ./ooosssso++osssssso+`          Editor    : VS Code
-        .oossssso-````/ossssss+`         Learning  : Sistem güvenliği, temiz kod
+        .oossssso-````/ossssss+`         Learning  : System security, clean code
        -osssssso.      :ssssssso.        Projects  : chronos-atelier • syn-anticheat
       :osssssss/        osssso+++.       Website   : muraterendmn.vercel.app
      /ossssssss/        +ssssooo/-       Contact   : erenmrt46@gmail.com
-   `/ossssso+/:-        -:/+osssso+-     Status    : Öğreniyorum, kurcalıyorum
+   `/ossssso+/:-        -:/+osssso+-     Status    : Learning, tinkering
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
@@ -32,18 +32,18 @@ I know I've genuinely understood something when I've built a thing with it that 
 
 ---
 
-## Projelerim
+## Projects
 
-| Proje | Ne yapıyor | Teknolojiler |
+| Project | What it does | Tech |
 | :--- | :--- | :--- |
-| **[chronos-atelier](https://github.com/syNeror/chronos-atelier)** | Lüks bir mekanik saatin tanıtım sitesi. Sayfa kaydırıldıkça saat sekiz katmana ayrılır, her parça kendini anlatır, sonra yeniden bütün olur. | `Next.js` `React 19` `TypeScript` |
-| **[syn-anticheat](https://github.com/syNeror/syn-anticheat)** | FiveM sunucuları için sunucu taraflı hile tespit sistemi. Lua resource, ASP.NET Core API ve Next.js paneli birlikte çalışıyor. | `Lua` `C#` `Next.js` |
-| **[syn-discord-bots](https://github.com/syNeror/syn-discord-bots)** | Dört ayrı Discord botundan oluşan Türkçe paket: moderasyon, ticket, ekip yönetimi ve genel komutlar. | `JavaScript` `discord.js` |
-| **[webportfolio](https://github.com/syNeror/webportfolio)** · [canlı ↗](https://muraterendmn.vercel.app) | Kişisel portföy sitem. Tüm içerik tek dosyadan yönetiliyor, açık/koyu tema ve statik üretilen proje sayfaları var. | `TypeScript` `Next.js` `Tailwind` |
+| **[chronos-atelier](https://github.com/syNeror/chronos-atelier)** | A showcase site for a luxury mechanical watch. As you scroll, the watch separates into eight layers, each part explains itself, then it comes back together. | `Next.js` `React 19` `TypeScript` |
+| **[syn-anticheat](https://github.com/syNeror/syn-anticheat)** | Server-side cheat detection for FiveM servers. A Lua resource, an ASP.NET Core API and a Next.js dashboard working together. | `Lua` `C#` `Next.js` |
+| **[syn-discord-bots](https://github.com/syNeror/syn-discord-bots)** | A Turkish-language suite of four Discord bots: moderation, tickets, team management and general commands. | `JavaScript` `discord.js` |
+| **[webportfolio](https://github.com/syNeror/webportfolio)** · [live ↗](https://muraterendmn.vercel.app) | My personal portfolio site. All content is managed from a single file, with light/dark themes and statically generated project pages. | `TypeScript` `Next.js` `Tailwind` |
 
 ---
 
-## Kullandığım teknolojiler
+## Tech I work with
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,23 +65,23 @@ I know I've genuinely understood something when I've built a thing with it that 
 
 ---
 
-## İstatistikler
+## Stats
 
 <p align="center">
-  <img height="165" alt="syNeror'in GitHub istatistikleri" src="https://github-readme-stats.vercel.app/api?username=syNeror&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&locale=tr" />
-  <img height="165" alt="En cok kullandigim diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syNeror&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=tokyonight&locale=tr" />
+  <img height="165" alt="syNeror's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=syNeror&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&locale=en" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syNeror&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=tokyonight&locale=en" />
 </p>
 
 ---
 
-## İletişim
+## Contact
 
-Bir sorunuz varsa, bir hata yakaladıysanız ya da birlikte bir şey yapmak isterseniz yazın — issue açabilir veya doğrudan e-posta gönderebilirsiniz.
+If you have a question, spotted a bug, or want to build something together — get in touch. Open an issue or send me an email directly.
 
 <p>
   <a href="mailto:erenmrt46@gmail.com">
-    <img alt="E-posta" src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center"><sub>Bir şeyin nasıl çalıştığını anlamanın en iyi yolu, onu bozup tekrar yapmak.</sub></p>
+<p align="center"><sub>The best way to understand how something works is to break it and build it again.</sub></p>
