@@ -2,7 +2,7 @@
                    -`                    syneror@github
                   .o+`                   ─────────────────────────────────────
                  `ooo/                   Name      : Murat Eren
-                `+oooo:                  Alias     : Synaxc
+                `+oooo:                  Alias     : Syn
                `+oooooo:                 Role      : Developer
                -+oooooo+:                Focus     : Web, Discord Systems, Anti-Cheat
              `/:-:++oooo+:               Stack     : JS • TS • C# • C++ • Rust • Lua
