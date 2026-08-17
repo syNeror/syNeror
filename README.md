@@ -11,7 +11,7 @@
           `/+++ooooooooooooo/`           Database  : PostgreSQL • SQLite
          ./ooosssso++osssssso+`          Editor    : VS Code
         .oossssso-````/ossssss+`         Learning  : System security, clean code
-       -osssssso.      :ssssssso.        Projects  : chronos-atelier • syn-anticheat
+       -osssssso.      :ssssssso.        Projects  : nexshop • chronos-atelier • syn-anticheat
       :osssssss/        osssso+++.       Website   : muraterendmn.vercel.app
      /ossssssss/        +ssssooo/-       Contact   : erenmrt46@gmail.com
    `/ossssso+/:-        -:/+osssso+-     Status    : Learning, tinkering
@@ -36,6 +36,7 @@ I know I've genuinely understood something when I've built a thing with it that 
 
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
+| **[nexshop](https://github.com/syNeror/nexshop)** | An e-commerce platform for digital products. Licence keys, secure downloads, Stripe and iyzico payments, live chat and a full admin panel. | `C#` `ASP.NET Core` `PostgreSQL` |
 | **[chronos-atelier](https://github.com/syNeror/chronos-atelier)** | A showcase site for a luxury mechanical watch. As you scroll, the watch separates into eight layers, each part explains itself, then it comes back together. | `Next.js` `React 19` `TypeScript` |
 | **[syn-anticheat](https://github.com/syNeror/syn-anticheat)** | Server-side cheat detection for FiveM servers. A Lua resource, an ASP.NET Core API and a Next.js dashboard working together. | `Lua` `C#` `Next.js` |
 | **[syn-discord-bots](https://github.com/syNeror/syn-discord-bots)** | A Turkish-language suite of four Discord bots: moderation, tickets, team management and general commands. | `JavaScript` `discord.js` |
