@@ -4,14 +4,14 @@
                  `ooo/                   Name      : Murat Eren
                 `+oooo:                  Alias     : Syn
                `+oooooo:                 Role      : Developer
-               -+oooooo+:                Focus     : Web, Discord Systems, Anti-Cheat
+               -+oooooo+:                Focus     : Web, Anti-Cheat
              `/:-:++oooo+:               Stack     : JS • TS • C# • C++ • Rust • Lua
             `/++++/+++++++:              Frontend  : HTML • CSS • React • Next.js • Tailwind
            `/++++++++++++++:             Backend   : Node.js • ASP.NET Core
           `/+++ooooooooooooo/`           Database  : PostgreSQL • SQLite
-         ./ooosssso++osssssso+`          Editor    : VS Code
+         ./ooosssso++osssssso+`          Editor    : VS Code, JetBrains Rider
         .oossssso-````/ossssss+`         Learning  : System security, clean code
-       -osssssso.      :ssssssso.        Projects  : nexshop • chronos-atelier • syn-anticheat
+       -osssssso.      :ssssssso.        Projects  : ----------------------
       :osssssss/        osssso+++.       Website   : muraterendmn.vercel.app
      /ossssssss/        +ssssooo/-       Contact   : erenmrt46@gmail.com
    `/ossssso+/:-        -:/+osssso+-     Status    : Learning, tinkering
