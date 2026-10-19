@@ -1,18 +1,25 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,50:3d59a1,100:7aa2f7&text=Murat%20Eren&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Game-Server%20Security&descSize=18&descAlignY=60&animation=fadeIn" alt="Murat Eren" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,40:302b63,75:3d59a1,100:7aa2f7&text=MURAT%20EREN&fontColor=ffffff&fontSize=72&fontAlignY=38&stroke=7aa2f7&strokeWidth=1&desc=syn%20%E2%80%94%20full-stack%20developer%20%26%20security%20tinkerer&descSize=20&descAlignY=58&descAlign=50&animation=twinkling" alt="Murat Eren" />
 </p>
 
 <p align="center">
-  <a href="https://muraterendmn.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+full-stack+web+platforms;ASP.NET+Core+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Server-side+anti-cheat+for+FiveM;Break+it.+Understand+it.+Build+it+again." alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=%3E+building+full-stack+web+platforms_;%3E+ASP.NET+Core+%C2%B7+Next.js+%C2%B7+PostgreSQL_;%3E+server-side+anti-cheat+for+FiveM_;%3E+break+it.+understand+it.+build+it+again_" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://muraterendmn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-muraterendmn.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
-  <a href="mailto:erenmrt46@gmail.com"><img src="https://img.shields.io/badge/Email-erenmrt46%40gmail.com-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=syNeror&style=for-the-badge&color=9ece6a&label=PROFILE+VIEWS" alt="Profile views" />
+  <b>Web Platforms</b> &nbsp;·&nbsp; <b>Game-Server Security</b> &nbsp;·&nbsp; <b>Clean Architecture</b>
+</p>
+
+<p align="center">
+  <a href="https://muraterendmn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=7aa2f7" alt="Portfolio" /></a>
+  <a href="mailto:erenmrt46@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=bb9af7" alt="Email" /></a>
+  <a href="https://github.com/syNeror?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f0c29?style=for-the-badge&logo=github&logoColor=9ece6a" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=syNeror&style=for-the-badge&color=302b63&label=VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0f0c29,50:7aa2f7,100:0f0c29" alt="" />
 </p>
 
 <br />
