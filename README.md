@@ -1,70 +1,177 @@
-<div align="center">
-
-# Murat Eren
-
-**Full-stack developer · Web platforms & game-server security**
-
-I build web applications with ASP.NET Core and Next.js, and server-side anti-cheat systems for FiveM.
-
-<p>
-  <a href="https://muraterendmn.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:erenmrt46@gmail.com"><img alt="Email" src="https://img.shields.io/badge/erenmrt46@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/syNeror"><img alt="GitHub followers" src="https://img.shields.io/github/followers/syNeror?style=flat-square&logo=github&label=Follow" /></a>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,50:3d59a1,100:7aa2f7&text=Murat%20Eren&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Game-Server%20Security&descSize=18&descAlignY=60&animation=fadeIn" alt="Murat Eren" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://muraterendmn.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+full-stack+web+platforms;ASP.NET+Core+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Server-side+anti-cheat+for+FiveM;Break+it.+Understand+it.+Build+it+again." alt="Typing intro" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://muraterendmn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-muraterendmn.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
+  <a href="mailto:erenmrt46@gmail.com"><img src="https://img.shields.io/badge/Email-erenmrt46%40gmail.com-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=syNeror&style=for-the-badge&color=9ece6a&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-## About
+<br />
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2>
+  <img src="https://img.shields.io/badge/-About%20Me-1a1b27?style=for-the-badge" alt="About Me" />
+</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 I didn't learn programming as a school subject — I learned it out of necessity. When something broke in the community I was running, I wrote my own fix instead of hunting for a ready-made one. My first bot was terrible, the second was better, and by the third I could explain every decision behind it.
 
-That habit stuck. I'm most interested in the parts users never see: why a service crashed, how a system was tricked, why a page was slow. Today that means:
+That habit stuck. I'm drawn to the parts users never see: **why a service crashed, how a system was tricked, why a page was slow.**
 
-- **Web platforms** — full-stack apps with ASP.NET Core, Next.js and PostgreSQL, from payments to admin panels
-- **Game-server security** — detecting cheats on the server side, where the client can't lie
-- **Currently learning** — system security and writing code that stays clean as it grows
+I know I've truly understood something when I've built a thing with it that someone else can use.
 
----
+</td>
+<td width="45%" valign="top">
 
-## Featured Projects
+```ts
+const syn = {
+  name:     "Murat Eren",
+  role:     "Full-Stack Developer",
+  focus:    ["Web Platforms", "Anti-Cheat"],
+  backend:  ["ASP.NET Core", "Node.js"],
+  frontend: ["Next.js", "React", "Tailwind"],
+  data:     ["PostgreSQL", "SQLite"],
+  learning: ["System Security", "Clean Code"],
+  motto:    "Break it, then build it again",
+};
+```
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[nexshop](https://github.com/syNeror/nexshop)** | E-commerce platform for digital products: licence-key delivery, secure downloads, Stripe and iyzico payments, live chat and a full admin panel. | `C#` `ASP.NET Core` `PostgreSQL` |
-| **[syn-anticheat](https://github.com/syNeror/syn-anticheat)** | Server-side cheat detection for FiveM. A Lua resource reports to an ASP.NET Core API, with a Next.js dashboard for reviewing detections. | `Lua` `C#` `Next.js` |
-| **[chronos-atelier](https://github.com/syNeror/chronos-atelier)** | Scroll-driven showcase for a luxury mechanical watch — the watch separates into eight layers, each part explains itself, then it reassembles. | `Next.js` `React 19` `TypeScript` |
-| **[webportfolio](https://github.com/syNeror/webportfolio)** · [live ↗](https://muraterendmn.vercel.app) | Personal portfolio. All content is driven from a single file, with light/dark themes and statically generated project pages. | `TypeScript` `Next.js` `Tailwind` |
-| **[syn-discord-bots](https://github.com/syNeror/syn-discord-bots)** | Turkish-language suite of four Discord bots covering moderation, tickets, team management and general commands. | `JavaScript` `discord.js` |
+</td>
+</tr>
+</table>
 
-Also: an [Adventure Time–themed portfolio](https://advanturetimeportfolio.vercel.app) built as a design experiment.
+<br />
 
----
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<h2>
+  <img src="https://img.shields.io/badge/-Featured%20Projects-1a1b27?style=for-the-badge" alt="Featured Projects" />
+</h2>
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) |
-| **Backend** | ![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white) |
+<a href="https://github.com/syNeror/nexshop"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=syNeror&repo=nexshop&theme=tokyonight&hide_border=true&border_radius=10" alt="nexshop" /></a>
 
----
+E-commerce platform for digital products — licence keys, secure downloads, **Stripe & iyzico** payments, live chat and a full admin panel.
 
-## GitHub Stats
+`C#` `ASP.NET Core` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/syNeror/syn-anticheat"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=syNeror&repo=syn-anticheat&theme=tokyonight&hide_border=true&border_radius=10" alt="syn-anticheat" /></a>
+
+Server-side cheat detection for **FiveM** — a Lua resource, an ASP.NET Core API and a Next.js dashboard working as one system.
+
+`Lua` `C#` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/syNeror/chronos-atelier"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=syNeror&repo=chronos-atelier&theme=tokyonight&hide_border=true&border_radius=10" alt="chronos-atelier" /></a>
+
+Scroll-driven showcase for a luxury mechanical watch — it separates into **eight layers**, each part explains itself, then it reassembles.
+
+`Next.js` `React 19` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/syNeror/webportfolio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=syNeror&repo=webportfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="webportfolio" /></a>
+
+Personal portfolio — all content driven from a single file, light/dark themes, statically generated project pages. **[Live ↗](https://muraterendmn.vercel.app)**
+
+`TypeScript` `Next.js` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/syNeror/syn-discord-bots"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=syNeror&repo=syn-discord-bots&theme=tokyonight&hide_border=true&border_radius=10" alt="syn-discord-bots" /></a>
+
+Turkish-language suite of **four Discord bots** — moderation, tickets, team management and general commands.
+
+`JavaScript` `discord.js`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://advanturetimeportfolio.vercel.app"><img width="100%" src="https://img.shields.io/badge/Adventure%20Time%20Portfolio-Live%20Demo-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Adventure Time Portfolio" /></a>
+
+A themed portfolio built as a design experiment — playful visuals, same engineering discipline.
+
+`Next.js` `Design`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ═══════════════════════════ TECH ═══════════════════════════ -->
+<h2>
+  <img src="https://img.shields.io/badge/-Tech%20Stack-1a1b27?style=for-the-badge" alt="Tech Stack" />
+</h2>
 
 <p align="center">
-  <img height="165" alt="syNeror's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=syNeror&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syNeror&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,rust,lua&theme=dark" alt="Languages" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" /><br />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,postgres,sqlite,git,vercel,vscode&theme=dark" alt="Backend and tools" />
 </p>
 
----
+<br />
 
-## Get in Touch
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<h2>
+  <img src="https://img.shields.io/badge/-GitHub%20Activity-1a1b27?style=for-the-badge" alt="GitHub Activity" />
+</h2>
 
-Open to collaboration and feedback. Found a bug or have an idea? Open an issue on the relevant repo, or email me at **[erenmrt46@gmail.com](mailto:erenmrt46@gmail.com)**.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syNeror&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syNeror&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&border_radius=10" alt="Top languages" />
+</p>
 
-<p align="center"><sub>The best way to understand how something works is to break it and build it again.</sub></p>
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=syNeror&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syNeror&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<br />
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+<h2>
+  <img src="https://img.shields.io/badge/-Get%20in%20Touch-1a1b27?style=for-the-badge" alt="Get in Touch" />
+</h2>
+
+<p>
+  Open to collaboration and feedback. Found a bug or have an idea? Open an issue on the relevant repo, or reach out directly.
+</p>
+
+<p align="center">
+  <a href="mailto:erenmrt46@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://muraterendmn.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7aa2f7,50:3d59a1,100:1a1b27" alt="" />
+</p>
