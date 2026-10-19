@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f0c29,40:302b63,75:3d59a1,100:7aa2f7&text=MURAT%20EREN&fontColor=ffffff&fontSize=72&fontAlignY=38&stroke=7aa2f7&strokeWidth=1&desc=syn%20%E2%80%94%20full-stack%20developer%20%26%20security%20tinkerer&descSize=20&descAlignY=58&descAlign=50&animation=twinkling" alt="Murat Eren" />
+  <img width="100%" src="./banner.svg" alt="Murat Eren — Full-Stack Developer · Game-Server Security" />
 </p>
 
 <p align="center">
