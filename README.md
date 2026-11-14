@@ -13,10 +13,6 @@
 <table align="center"><tr><td width="820">
 <br />
 
-I didn't learn programming as a school subject — I learned it out of necessity. When something broke in the community I was running, I wrote my own fix instead of hunting for a ready-made one. The first attempt was poor, the second was better, and by the third I could defend every decision behind it.
-
-That habit stayed. I'm drawn to what users never see — *why a service failed, how a system was deceived, why a page was slow* — and I consider something understood only once I've built a tool with it that someone else can rely on.
-
 <br />
 </td></tr></table>
 
