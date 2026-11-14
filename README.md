@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./banner.svg" alt="Murat Eren — Full-Stack Developer · Game-Server Security" />
+  <img width="100%" src="./banner.svg" alt="Murat — Full-Stack Developer · Game-Server Security" />
 </p>
 
 <p align="center">
