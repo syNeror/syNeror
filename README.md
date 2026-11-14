@@ -1,65 +1,63 @@
-<div align="center"> <img width="100%" src="./banner.svg" alt="Murat — Full-Stack Developer" /> <br />
+<!-- Murat · Syn — profile README. Assets are generated; dark & light variants switch with the viewer's GitHub theme. -->
 
-<sub>FULL-STACK DEVELOPER  ·  GAME-SERVER SECURITY</sub>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" /><img src="./assets/banner-dark.svg" alt="Murat — Full-stack developer & game-server security" width="100%" /></picture>
+</p>
 
-<br /><br />
-
-<a href="https://muraterendmn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>  <a href="mailto:erenmrt46@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>  <a href="https://github.com/syNeror?tab=repositories"><img src="https://img.shields.io/badge/Repositories-111111?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-
-</div> <br />
 <br />
- I.  About
 
-Break it, understand it, build it again.
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.svg" /><img src="./assets/section-about-dark.svg" alt="I — Philosophy" width="100%" /></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/quote-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/quote-light.svg" /><img src="./assets/quote-dark.svg" alt="Break it, understand it, build it again." width="100%" /></picture></p>
+
+<table align="center"><tr><td width="820">
+<br />
 
 I didn't learn programming as a school subject — I learned it out of necessity. When something broke in the community I was running, I wrote my own fix instead of hunting for a ready-made one. The first attempt was poor, the second was better, and by the third I could defend every decision behind it.
 
-That habit stayed. I'm drawn to what users never see — why a service failed, how a system was deceived, why a page was slow — and I consider something understood only once I've built a tool with it that someone else can rely on.
+That habit stayed. I'm drawn to what users never see — *why a service failed, how a system was deceived, why a page was slow* — and I consider something understood only once I've built a tool with it that someone else can rely on.
 
 <br />
- II.  Selected Work
-<table> <tr> <td width="50%" valign="top">
-
-nexshop <br /><sub>C#  ·  ASP.NET Core  ·  PostgreSQL</sub>
-
-A commerce platform for digital goods — licence keys, secure delivery, Stripe & iyzico payments, live support and a complete administration panel.
-
-</td> <td width="50%" valign="top">
-
-syn-anticheat <br /><sub>Lua  ·  C#  ·  Next.js</sub>
-
-Server-side cheat detection for FiveM. A Lua resource, an ASP.NET Core API and a Next.js dashboard, designed to operate as a single system.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-
-chronos-atelier <br /><sub>Next.js  ·  React 19  ·  TypeScript</sub>
-
-A scroll-driven study of a luxury mechanical watch — it separates into eight layers, each component explains itself, and the piece reassembles.
-
-</td> <td width="50%" valign="top">
-
-webportfolio <br /><sub>TypeScript  ·  Next.js  ·  Tailwind</sub>
-
-Personal portfolio. All content driven from a single source file, light and dark themes, statically generated project pages.  Live ↗
-
-</td> </tr> <tr> <td width="50%" valign="top">
-
-syn-discord-bots <br /><sub>JavaScript  ·  discord.js</sub>
-
-A Turkish-language suite of four Discord bots — moderation, tickets, team management and general utilities.
-
-</td> <td width="50%" valign="top">
-
-Adventure Time Portfolio <br /><sub>Next.js  ·  Design</sub>
-
-A themed portfolio built as a design exercise — playful on the surface, the same engineering discipline underneath.
-
-</td> </tr> </table> <br />
- III.  Toolkit
-<table> <tr><td width="140"><sub><b>LANGUAGES</b></sub></td><td>C# &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Lua &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Rust</td></tr> <tr><td><sub><b>BACKEND</b></sub></td><td>ASP.NET Core &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLite</td></tr> <tr><td><sub><b>FRONTEND</b></sub></td><td>Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Tailwind CSS</td></tr> <tr><td><sub><b>PRACTICE</b></sub></td><td>Clean Architecture &nbsp;·&nbsp; System Security &nbsp;·&nbsp; Anti-Cheat Design</td></tr> </table> <br />
- IV.  Contact
-
-Open to collaboration and considered feedback. For a bug or an idea, open an issue on the relevant repository — or write directly to erenmrt46@gmail.com.
+</td></tr></table>
 
 <br />
-<div align="center"> <sub>© Murat &nbsp;·&nbsp; <i>Syn
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-work-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/section-work-light.svg" /><img src="./assets/section-work-dark.svg" alt="II — Selected Work" width="100%" /></picture></p>
+
+<p align="center">
+  <a href="https://github.com/syNeror/nexshop"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-nexshop-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-nexshop-light.svg" /><img src="./assets/card-nexshop-dark.svg" alt="nexshop" width="49%" /></picture></a>
+  <a href="https://github.com/syNeror/syn-anticheat"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-anticheat-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-anticheat-light.svg" /><img src="./assets/card-anticheat-dark.svg" alt="syn-anticheat" width="49%" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/syNeror/chronos-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-chronos-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-chronos-light.svg" /><img src="./assets/card-chronos-dark.svg" alt="chronos-atelier" width="49%" /></picture></a>
+  <a href="https://github.com/syNeror/webportfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-portfolio-light.svg" /><img src="./assets/card-portfolio-dark.svg" alt="webportfolio" width="49%" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/syNeror/syn-discord-bots"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bots-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-bots-light.svg" /><img src="./assets/card-bots-dark.svg" alt="syn-discord-bots" width="49%" /></picture></a>
+  <a href="https://advanturetimeportfolio.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-adventure-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/card-adventure-light.svg" /><img src="./assets/card-adventure-dark.svg" alt="Adventure Time Portfolio" width="49%" /></picture></a>
+</p>
+
+<br />
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-toolkit-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/section-toolkit-light.svg" /><img src="./assets/section-toolkit-dark.svg" alt="III — Toolkit" width="100%" /></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg" /><img src="./assets/toolkit-dark.svg" alt="Languages: C#, TypeScript, JavaScript, Lua, C++, Rust · Backend: ASP.NET Core, Node.js, PostgreSQL, SQLite · Frontend: Next.js, React, Tailwind CSS · Practice: Clean Architecture, System Security, Anti-Cheat Design" width="100%" /></picture></p>
+
+<br />
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-contact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/section-contact-light.svg" /><img src="./assets/section-contact-dark.svg" alt="IV — Correspondence" width="100%" /></picture></p>
+
+<p align="center">
+  Open to collaboration and considered feedback.<br />
+  <sub>For a bug or an idea, open an issue on the relevant repository — or write directly.</sub>
+</p>
+
+<p align="center">
+  <a href="https://muraterendmn.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/link-portfolio-light.svg" /><img src="./assets/link-portfolio-dark.svg" alt="Portfolio" /></picture></a>
+  &nbsp;
+  <a href="mailto:erenmrt46@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/link-email-light.svg" /><img src="./assets/link-email-dark.svg" alt="Email" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/syNeror?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/link-github-light.svg" /><img src="./assets/link-github-dark.svg" alt="Repositories" /></picture></a>
+</p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" /><img src="./assets/footer-dark.svg" alt="Murat · Syn" width="100%" /></picture></p>
